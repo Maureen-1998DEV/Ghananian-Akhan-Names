@@ -1,0 +1,16 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.container-xxl{
+    background-image: url("./Assetes/wallpaper-mania.com_High_resolution_wallpaper_background_ID_77700212989.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 520px;
+}
+.container-xxl.co-lg-8 h1,h2{
+    text-align: center;
+}
+.container{
+    background-image: url("./Assetes/wallpaper-mania.com_High_resolution_wallpaper_background_ID_77700212989.jpg");
+}
