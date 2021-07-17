@@ -12,9 +12,8 @@ nav{
 .nav-bar .logo{
     display: flex;
     justify-content: space-between;
-    font-size: 20px;
-    font-family: 'Luckiest Guy', cursive;
-    color: mediumblue;
+    font-size: 50px;
+    color: slateblue;
     font-weight: bolder;
 
 }
@@ -34,23 +33,17 @@ nav{
     color: ivory;
     margin: 100px;
     font-style: italic;
-    font-size: 30px;
+    font-size: 40px;
     
     
+}
+.textone h1{
+    color: tan;
+    font-size: 50px;
+    font-weight: 20px;
 }
 .imageone{
     float: right;
+    height: 500px;
 }
-.naming-history{
-    background-color: orange;
-    display: flex;
-}
-.textwo{
-    font-size: 25px;
-    font-family: 'Caveat', cursive;
-}
-.container{
-    background-image: url("./Assetes/background35.jpg");
-    background-position: center;
-    display: flex;
-}
+

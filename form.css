@@ -2,9 +2,14 @@
     padding: 0px;
     margin: 0px;
 }
-.row{
-    background-image: url("./Assetes/background35.jpg") ;
-    display: flex;
+.container{
+    background-image: url("./Assetes/background35.jpg");
+    margin: 50px 50px 50px 50px;
+    
 
 
+}
+.container h1,h2,label{
+    color: powderblue;
+ margin: 0px 10px 10px 10px;
 }
