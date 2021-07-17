@@ -1,23 +1,48 @@
 *{
     padding: 0;
     margin: 0;
+    list-style: none;
+    text-decoration: none;
 }
-.row{
+nav{
+    background-color: rgb(155, 221, 243);
+    height: 80px;
+
+}
+.nav-bar .logo{
     display: flex;
+    font-size: 20px;
+    font-family: 'Caveat', cursive;
+    color: mediumblue;
+    font-weight: bolder;
+
 }
+nav ul{
+    float: right;
+    margin-right: 20px;
+}
+nav ul li{
+    display: inline-block;
+    margin: 0 5px;
+}
+
+
 .landingpage{
     background-image: url("./Assetes/wallpaper-mania.com_High_resolution_wallpaper_background_ID_77700212989.jpg");
     background-size: cover;
     background-position: center;
-    height: 520px;
+    height: 800px;
+    width: 100%;
     display: flex;
 }
 .textone{
     text-align: center;
     color: ivory;
     margin: 100px;
-    font-family: 'Courgette', cursive;
-    font-weight: 700px;
+    font-style: italic;
+    font-size: 30px;
+    
+    
 }
 .imageone{
     float: right;
@@ -27,8 +52,11 @@
     display: flex;
 }
 .textwo{
-    padding-right: 50px;
+    font-size: 25px;
+    font-family: 'Caveat', cursive;
 }
 .container{
-    background-image: url("./Assetes/wallpaper-mania.com_High_resolution_wallpaper_background_ID_77700212989.jpg");
+    background-image: url("./Assetes/background35.jpg");
+    background-position: center;
+    display: flex;
 }
