@@ -14,29 +14,38 @@
 <body>
     <div class="container mt-5">
         <div class="row">
-        <div class="col-lg-8">
+            <div class="col-lg-8">
                 <h2>Know your Akhan Name 🙋?</h2>
-               <form action="">
-                <div class="mb-3">
-                    <label for="date" class="form-label"> Date of Birth</label>
-                    <input type="date" class="form-control" id="birthDate" placeholder="">
-                 </div> 
-                  <select class="form-select form-select-md">
-                    <option selected>Gender</option>
-                    <option value="one">Male</option>
-                    <option value="two">female</option>
-
-                  </select>
-                  <input class="btn btn-primary" type="submit" value="Submit">
-                  
+                    <div class="row g-3">
+                         <div class="col-sm">
+                            <input type="number" class="form-control" placeholder="Date" id="Date">
                   </div>
+                   <div class="col-sm">
+                   <input type="number" class="form-control" placeholder="month" id="month">
+                 </div>
+                   <div class="col-sm">
+                    <input type="number" class="form-control" placeholder="Year" id="Year">
+                     </div>
                 
-               </form>
-           <div class="col-lg-8">
-               <img src="./Assetes/istockphoto-1179603987-612x612-removebg-preview.png" alt="African-map">
+                   <h2>Gender*</h2>
+                  <div id="radioInput">
+                    <input id="genderMale" type="radio" name="gender">
+                    <label for="gender">Male</label>
+                     </div>
+                  <div id="radioInput">
+                    <input id="genderFemale" type="radio" name="gender">
+                    <label for="gender">Female</label>
+                  </div>
             </div>
+            <button type="button" class="btn btn-secondary">Button</button>
+               <div class="col-lg-8">
+                  <img src="./Assetes/istockphoto-1179603987-612x612-removebg-preview.png" alt="African-map">
+                </div>  
+        </div>  
+    
+
     </div>
-    </div>
+    <script src="form.js"></script>
 
 </body>
 </html>

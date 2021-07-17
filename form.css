@@ -3,7 +3,8 @@
     margin: 0px;
 }
 .row{
-    background-image: url("./Assetes/background35.jpg");
-display: flex;
+    background-image: url("./Assetes/background35.jpg") ;
+    display: flex;
+
 
 }
