@@ -20,7 +20,13 @@
 * email: ougomaureen@gmail.com.
 * Facebook: Maureen Ougo.
 * Twitter : Maureen Akinyi 73652.
-# license and Copyright Information
+# Screenshots:
+<img src="./Assetes/screen.png" alt="screenshot" />
+<img src="./Assetes/screen2.png" alt="screenshot">
+
+# live link
+Live link to view the project <a href=>My Portfolio</a>
+# license And Copyright:
 MIT License
 
 Copyright (c) [2021] [Maureen Akinyi Ougo]

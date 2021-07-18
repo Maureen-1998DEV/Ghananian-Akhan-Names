@@ -2,9 +2,9 @@
     padding: 0px;
     margin: 0px;
 }
-.container{
+.container-xxl{
     background-image: url("./Assetes/background35.jpg");
-    margin: 50px 50px 50px 50px;
+    margin: 80px 80px 80px 80px;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
