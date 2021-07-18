@@ -30,7 +30,7 @@
 <img src="./Assetes/screen2.png" alt="screenshot">
 
 # live link
-Live link to view the project <a href=>My Portfolio</a>
+Live link to view the project <a href="https://maureen-1998dev.github.io/Ghananian-Akhan-Names/">My Portfolio</a>
 # license And Copyright:
 MIT License
 
