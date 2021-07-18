@@ -31,7 +31,7 @@ inputButton.addEventListener("click", function(){
     //males Gender//
    var gender= document.querySelector('input[name="gender"]:checked');
     if(gender==null){
-        alert("Select Gender")
+        alert("Select Gender😠")
     }
     var inputDate = new Date(yearOfMonth+"/"+monthOfBirth+"/"+dateOfBirth);
     console.log(inputDate)
