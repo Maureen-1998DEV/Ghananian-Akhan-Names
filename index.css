@@ -5,15 +5,14 @@
     text-decoration: none;
 }
 nav{
-    background-color: rgb(155, 221, 243);
+    background-color: brown;
     height: 80px;
 
 }
 .nav-bar .logo{
     display: flex;
-    justify-content: space-between;
     font-size: 50px;
-    color: slateblue;
+    color: #000;
     font-weight: bolder;
 
 }
