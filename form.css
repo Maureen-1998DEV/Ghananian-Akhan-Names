@@ -5,6 +5,9 @@
 .container{
     background-image: url("./Assetes/background35.jpg");
     margin: 50px 50px 50px 50px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
     
 
 
