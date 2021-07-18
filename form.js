@@ -42,22 +42,4 @@ inputButton.addEventListener("click", function(){
     } else if(gender.value == "female") {
         alert(`Your akan name is: ${femaleAkan[d]}`)
     }
-    
-//    (d) = ( ( (CC/4) -2*CC-1) + ((5*YY/4) ) + ((26*(monthOfBirth+1)/10)) + dateOfBirth) %7
-
-//    if(document.querySelector("#maleGender").checked && (inputDate !="")){
-//        document.querySelector("#result").innerHTML =
-//        "<strong>" + maleAkan[inputDate] + "</strong>";
-
-//        //female Gender//
-//    }else if(document.querySelector("#femaleGender").checked && (inputDate !="")){
-//        document.querySelector("#result").innerHTML = 
-//        "<strong>" + femaleAkan[inputDate] + "</stong>";
-//    }else if(!document.querySelector("femaleGender").checked && !document.getElementById("MaleGender").checked) {
-// //warning//
-//     document.getElementById("warning").innerHTML = 
-//     "*Select your gender*😠";
-
-
-
 })
