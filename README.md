@@ -4,8 +4,8 @@
 #### The Website it all about predicting someones Akan Name which are from the Ghananian culture even though you don't know the exact day of the week just look at your Akan Name and you will know.
 # Author's Information:
 ## I am Maureen Akinyi Ougo, i am an upcoming web-developer still studying at Moringa School to become a Full-stack Developer and This is one of my projects.
-# Set up Information
-* Browser
+# Set up Requirements
+* Browser of your choice
 * git 
 * github
 # Technology Used
@@ -13,7 +13,11 @@
 * CSS 
 * BOOSTRAP
 * JAVASCRIPT
-# BDD
+# The Way It Works:
+* On the Homepage click "know your Akhan Name Button".
+* put your date,month and Year of birth
+* click on the "click " button and it will display your results.
+
 
 # Contact Information
 # You can contact me:
