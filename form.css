@@ -13,3 +13,16 @@
     color: powderblue;
  margin: 0px 10px 10px 10px;
 }
+#warning{
+    color: purple;
+}
+.nameResults{
+    width: 75%;
+    padding: 50px;
+    background-color: white;
+    border: 1px solid rgb(221, 194, 38);
+    border-radius: 5px;
+    box-shadow: 0px 0px 5px gray;
+    margin-top: 20px;
+    display: flex;
+}
